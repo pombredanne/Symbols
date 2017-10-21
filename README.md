@@ -2,7 +2,7 @@
 
 Symbols folder fill with a lot of PDB. 
 
-Visual Studio 8+10 + Windows SDK 7.1 + .NET + VB +VC. 
+Visual Studio 8+10 + Windows SDK 7.1 + DirectX + .NET SDK + ICM Symbols + VB + VC . 
 
 Used for debug purposes. 
 
